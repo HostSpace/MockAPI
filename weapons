@@ -1,0 +1,31 @@
+{
+  "Data": [
+    {
+      "Name": "Sword",
+      "Stats": {
+        "Attack": 5,
+        "Defence": 1,
+        "Speed": -1,
+        "Weight": 2
+      }
+    },
+    {
+      "Name": "Shield",
+      "Stats": {
+        "Attack": 1,
+        "Defence": 5,
+        "Speed": -1,
+        "Weight": 2
+      }
+    },
+    {
+      "Name": "Bow",
+      "Stats": {
+        "Attack": 10,
+        "Defence": 0,
+        "Speed": 2,
+        "Weight": 1
+      }
+    }
+  ]
+}
