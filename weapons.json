@@ -1,12 +1,11 @@
 {
-  "Data": [
+  "Weapons": [
     {
       "Name": "Sword",
       "Stats": {
         "Attack": 5,
         "Defence": 1,
-        "Speed": -1,
-        "Weight": 2
+        "Speed": -1
       }
     },
     {
@@ -14,8 +13,7 @@
       "Stats": {
         "Attack": 1,
         "Defence": 5,
-        "Speed": -1,
-        "Weight": 2
+        "Speed": -1
       }
     },
     {
@@ -23,8 +21,7 @@
       "Stats": {
         "Attack": 10,
         "Defence": 0,
-        "Speed": 2,
-        "Weight": 1
+        "Speed": 2
       }
     }
   ]
