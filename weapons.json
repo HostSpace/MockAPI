@@ -19,7 +19,7 @@
     {
       "Name": "Bow",
       "Stats": {
-        "Attack": 10,
+        "Attack": 4,
         "Defence": 0,
         "Speed": 2
       }
